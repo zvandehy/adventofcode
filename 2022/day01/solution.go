@@ -11,7 +11,7 @@ import (
 
 func Day1() {
 	fmt.Println("Day 1")
-	input := reader.Read("../day01/input.txt", "")
+	input := reader.Read("../day01/input.txt")
 	elves := []Elf{}
 	tempElf := Elf{}
 	for _, line := range strings.Split(input, "\n") {
