@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/zvandehy/adventofcode/2022/day05"
+	"github.com/zvandehy/adventofcode/2022/day06"
 )
 
 func main() {
-	day05.Day5()
+	day06.Day6()
 }
